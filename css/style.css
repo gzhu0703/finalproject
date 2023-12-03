@@ -38,6 +38,16 @@ p {
     text-align: center;
 }
 
+.footer-text {
+    color: black;
+    margin: 20px;
+}
+
+.footer-text p {
+    margin: 0;
+}
+
+
 header {
     background-color:#355E3B;
     color: #fff;
